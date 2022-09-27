@@ -1,4 +1,7 @@
 
+类似内网转发工具 fuso：内网穿透、端口转发工具
+https://github.com/MINGERTAI/fuso
+
 # frp
 
 [![Build Status](https://circleci.com/gh/fatedier/frp.svg?style=shield)](https://circleci.com/gh/fatedier/frp)
